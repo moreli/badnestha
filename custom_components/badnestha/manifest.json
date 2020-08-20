@@ -1,0 +1,12 @@
+{
+  "domain": "badnestha",
+  "name": "Bad Nest (A hack around the Nest component to pull from their internal api)",
+  "documentation": "https://github.com/moreli/badnest",
+  "dependencies": [],
+  "codeowners": [
+    "moreli",
+    "@USA-RedDragon"
+  ],
+  "homeassistant": "",
+  "requirements": []
+}
